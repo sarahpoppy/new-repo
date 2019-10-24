@@ -1,7 +1,3 @@
-hello
-this is a repository for some interesting heritage info.
-i am interested to see how this works
+My first repo
 
-here is some more text
-https://www.theguardian.com/technology/2019/oct/23/apple-watch-series-5-review-the-king-of-smartwatches
-this is a review of apple smartwatches
+I am rural policy advisor at Historic England and I am based in Cambridge I am particularly interested in rural heritage at risk, and how we can promote community involvement.  I am also interested in use of github for collaboration with universities on rural heritage
